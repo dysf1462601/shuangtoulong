@@ -1,11 +1,16 @@
-#环境要求
-#Python 3.10
-#ADB
+# Phone Agent
 
+一个基于视觉模型与手机自动化控制的 AI Phone Agent 项目，支持通过自然语言任务驱动手机执行操作。
 
-#cp .env.example .env
-#pip install -r requirements.txt
-#python run_agent.py
+## 环境要求
+
+- Python 3.10
+- ADB
+
+## 安装依赖
+
+```bash
+pip install -r requirements.txt
 
 
 免责声明
