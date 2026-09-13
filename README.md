@@ -1,11 +1,11 @@
-环境要求
-Python 3.10
-ADB
+#环境要求
+#Python 3.10
+#ADB
 
 
-cp .env.example .env
-pip install -r requirements.txt
-python run_agent.py
+#cp .env.example .env
+#pip install -r requirements.txt
+#python run_agent.py
 
 
 免责声明
