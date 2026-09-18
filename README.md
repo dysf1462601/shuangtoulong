@@ -3,7 +3,7 @@
 ## 在智谱open-autoglm-phone项目上改造。
 双脑架构的自动操作手机项目，强推理模型(例如: gpt系列)负责思考规划，相当于大脑，小参数自动化模型(例如: autoglm-phone)负责控制，相当于小脑。
 适合跑复杂长程任务。
-## 项目文件整理中（待上传）
+
 
 ## 环境要求
 
@@ -16,6 +16,7 @@
 pip install -r requirements.txt
 cp .env.example .env
 python run_agent.py
+python brain_agent.py --loop
 ```
 
 ## 免责声明
